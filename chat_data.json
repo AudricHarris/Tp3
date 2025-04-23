@@ -1,0 +1,51 @@
+{
+  "conversations": {
+    "WearWQLF:nicod16": [
+      {
+        "sender": "nicod16",
+        "text": "hello",
+        "timestamp": 1743668564260,
+        "avatar": "Image/me.webp"
+      },
+      {
+        "sender": "nicod16",
+        "text": "how are you",
+        "timestamp": 1743668568991,
+        "avatar": "Image/me.webp"
+      }
+    ],
+    "Audric:Harris": [
+      {
+        "sender": "Harris",
+        "text": "salut",
+        "timestamp": 1743704213211,
+        "avatar": "Image/me.webp"
+      }
+    ]
+  },
+  "friendships": {
+    "WearWQLF": [
+      "nicod16",
+      "Gnome"
+    ],
+    "nicod16": [
+      "WearWQLF"
+    ],
+    "Gnome": [
+      "WearWQLF"
+    ],
+    "Audric": [
+      "Harris"
+    ],
+    "Harris": [
+      "Audric"
+    ]
+  },
+  "pendingFriendRequests": {
+    "WearWQLF": [],
+    "nicod16": [],
+    "Gnome": [],
+    "Audric": [],
+    "Harris": []
+  }
+}
